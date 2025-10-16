@@ -90,4 +90,4 @@ The Sneakers Website aims to:
    git clone https://github.com/ostinetripio/web-development-project
 
 ## Live website url
-https://web-developmentproject.netlify.app/
+https://cool-paprenjak-c85b4e.netlify.app/
